@@ -1,0 +1,10 @@
+Q. What happens when you initialize a repository? Why do you need to do it?
+
+A. O git só vai passar a rastrear aquele repositório a partir do momento que ele
+é inicializado com o comando git init.
+
+Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+A. Trata-se de uma área intermediaria entre a working directory e o repository,
+que permite que você adicione um arquivo de cada vez, para que assim
+se possa criar commits menores.
