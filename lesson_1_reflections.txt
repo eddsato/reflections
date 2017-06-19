@@ -1,0 +1,37 @@
+﻿Q. Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+A. Mostrando todas as linhas que foram alteradas e suas respectivas modificações, utilizando os sinais (+/-),
+onde o sinal de menos (-) representa as exclusões e o sinal de mais (+) as inserções.
+
+Q. Come ter fácil acesso a todo o histórico de um arquivo pode torna-lo um programador mais eficiente no longo
+prazo?
+
+A. Através da praticidade que isso nos proporciona, com ela podemos dar rollbacks para versões antigas e encontrar 
+bugs no código com mais facilidade.
+
+Q. Na sua opicião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git,
+vs. o salvamento automático de versões, como o Google Docs?
+
+A. Prós: flexibilidade e total controle dos commits, se feitos seguindo um padrão e boas práticas, teremos um ambiente
+mais organizado.
+Contras: imprevistos, caso ocorra alguma falha mecânica ou caso o programador esqueça de dar o commit e a possibilidade,
+se caso não for utilizado boas práticas, de ter muitos commit difucultando o entendimento.
+
+Q. Por que você acha que alguns sistemas de controle de versão, como o Git, permitem salvar várias arquivos em um commit,
+enquanto outros, como Google Docs, tratam cada arquivo separadamente?
+
+A. Falando em programação, é bem mais comum que uma alteração no código afete diversos outros arquivos.
+
+Q. Como usar os comando de git log e git diff para visualizar o histórico dos arquivos?
+
+A. Primeiro utilizamos o comando git log para listar todos os commits feitos no arquivo, em seguida utilizandos o comando
+git diff para comparar os commits escolhidos através de seus IDs
+
+Q. De que modo o controle de versão pode dar a você mais segurança para fazer alterações que podem danificar algo?
+
+A. Com a possibilidade de reverter os arquivos para o momento de qualquer commit já existente, com o comando git checkout.
+
+Q. Agora que você já configurou a sua área de trabalho, você quer usar o Git para quê?
+
+A. Para eu ter total controle e flexibilidade no desenvolvimento de software.
+
