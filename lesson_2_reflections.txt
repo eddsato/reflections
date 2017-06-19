@@ -3,8 +3,16 @@ Q. What happens when you initialize a repository? Why do you need to do it?
 A. O git só vai passar a rastrear aquele repositório a partir do momento que ele
 é inicializado com o comando git init.
 
-Q. How is the staging area different from the working directory and the repository? What value do you think it offers?
+Q. How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
 
 A. Trata-se de uma área intermediaria entre a working directory e o repository,
 que permite que você adicione um arquivo de cada vez, para que assim
 se possa criar commits menores.
+
+Q. What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+
+A. Com as branches você pode criar diversas versões do seu repositório e fazer
+alterações nessas versões sem alterar seu repositório pricipal (master). 
+Útil para features experimentais e para testes.
