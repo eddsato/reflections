@@ -1,18 +1,30 @@
 Q. What happens when you initialize a repository? Why do you need to do it?
 
-A. O git só vai passar a rastrear aquele repositório a partir do momento que ele
-é inicializado com o comando git init.
+A. O git sÃ³ vai passar a rastrear aquele repositÃ³rio a partir do momento que ele
+Ã© inicializado com o comando git init.
 
 Q. How is the staging area different from the working directory and the repository? 
 What value do you think it offers?
 
-A. Trata-se de uma área intermediaria entre a working directory e o repository,
-que permite que você adicione um arquivo de cada vez, para que assim
+A. Trata-se de uma Ã¡rea intermediaria entre a working directory e o repository,
+que permite que vocÃª adicione um arquivo de cada vez, para que assim
 se possa criar commits menores.
 
 Q. What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-A. Com as branches você pode criar diversas versões do seu repositório e fazer
-alterações nessas versões sem alterar seu repositório pricipal (master). 
-Útil para features experimentais e para testes.
+A. Com as branches vocÃª pode criar diversas versÃµes do seu repositÃ³rio e fazer
+alteraÃ§Ãµes nessas versÃµes sem alterar seu repositÃ³rio pricipal (master).
+Ãštil para features experimentais e para testes.
+
+Q. How do the diagrams help you visualize the branch structure?
+
+A. Com o auxilo de um diagrama, facilita a visualizaÃ§Ã£o de todas as branches
+do projeto e seus respectivos commits, indicando quem sÃ£o seu "parents".
+
+Q. What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+
+A. Criar um versÃ£o combinada das duas branchs. Usando um diagrama facilita a
+visualizaÃ§Ã£o do histÃ³rico de commits da branchs unificadas e identificar seus
+respectivos "parents".
