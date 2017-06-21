@@ -1,2 +1,13 @@
-Whenwould you want to create a remote repository rather than keeping all
+Q. When would you want to create a remote repository rather than keeping all
 your work local?
+
+A. Quando você quiser compartilhar seu projeto, permitindo que outras pessoas
+possam propor alterações ou quando você estiver em um projeto com mais de uma
+pessoas trabalhando nele.
+
+Q. Why might you want to always pull changes manually rather than havin Git 
+automatically stay up-to-date with your remote repository?
+
+A. Para que você possa ter controle sobre o que está compartilhando, caso o git
+sincrozine automaticamente a cada commit, ele pode acabar sincronizando features
+inacabadadas.
