@@ -32,3 +32,10 @@ em uma feature e não tenha terminado, você pode atualizar seu repositório loc
 sem alterar de fato a repositório na qual você vem trabalhando, já que são labels
 diferentes.
 
+Q. How would you collaborate without using  Git or GitHub? What would be easier,
+and what would be harder?
+
+A. Compartilhar uma pasta em algum serviço de Cloud, pode ser uma opção, mas se
+caso várias pessoas alterarem um mesmo arquivo, sem o suporte de um controle de 
+versão será dificil evitar conflitos e tornará a correção ineficiente.
+
