@@ -1,4 +1,4 @@
-Q. When would you want to create a remote repository rather than keeping all
+﻿Q. When would you want to create a remote repository rather than keeping all
 your work local?
 
 A. Quando você quiser compartilhar seu projeto, permitindo que outras pessoas
@@ -23,3 +23,12 @@ nova localização, a diferença é que com esse comando você pode clonar um
 repositório para qualquer lugar que você tenha acesso.
 
 Branches: São parte de um repositório onde as alteraões são feitas.
+
+Q. What is the benefic of having a copy of the last known state of remote stored
+locally?
+
+A. Útil quando você ficar offline por um tempo, supondo que você está trabalhando
+em uma feature e não tenha terminado, você pode atualizar seu repositório local
+sem alterar de fato a repositório na qual você vem trabalhando, já que são labels
+diferentes.
+
