@@ -11,3 +11,15 @@ automatically stay up-to-date with your remote repository?
 A. Para que você possa ter controle sobre o que está compartilhando, caso o git
 sincrozine automaticamente a cada commit, ele pode acabar sincronizando features
 inacabadadas.
+
+Q. Describe the differences between forks, clones, and branches. When would you use one
+instead of another?
+
+A. Forks: Funcionalidade apenas presente no GitHub, é utilizado para copiar
+todo um repositório no GitHub para o seu repositório remoto no GitHub.
+
+Clone: Comando Git também usado para copiar todo um repositório para uma
+nova localização, a diferença é que com esse comando você pode clonar um
+repositório para qualquer lugar que você tenha acesso.
+
+Branches: São parte de um repositório onde as alteraões são feitas.
