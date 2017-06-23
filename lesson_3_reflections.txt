@@ -39,3 +39,7 @@ A. Compartilhar uma pasta em algum serviço de Cloud, pode ser uma opção, mas 
 caso várias pessoas alterarem um mesmo arquivo, sem o suporte de um controle de 
 versão será dificil evitar conflitos e tornará a correção ineficiente.
 
+Q. When would you want to make changes in a separate branch rather than directly
+in master? What benefits does each approach have?
+
+A. 
