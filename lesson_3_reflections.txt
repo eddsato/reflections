@@ -42,4 +42,6 @@ versão será dificil evitar conflitos e tornará a correção ineficiente.
 Q. When would you want to make changes in a separate branch rather than directly
 in master? What benefits does each approach have?
 
-A. 
+A. O uso de branchs facilita quando há várias pessoas trabalhando em um mesmo projeto,
+porque facilita rastrear as modificações feitas. Quando apenas uma pessoa está trabalhando
+no projeto, manter todas as alterações na master pode ser o suficiente.
